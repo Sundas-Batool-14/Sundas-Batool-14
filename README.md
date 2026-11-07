@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sundas Batool
 
-<!--
-**Sundas-Batool-14/Sundas-Batool-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student 
 
-Here are some ideas to get you started:
+## About Me
+Hello! My name is Sundas Batool. I am a Computer Science student from QAU with an interest in programming, technology, and problem-solving.
+I enjoy learning new concepts and developing my technical skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education 
+- Degree: Bachelor of Science in Computer Science
+- University: Quaid-e-Azam university, Pakistan
+- Semester: 3rd
+
+---
